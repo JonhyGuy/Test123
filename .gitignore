@@ -1,5 +1,5 @@
 /node_modules
 
-serverInMongo/node_modules
+/serverInMongo/node_modules
 
-serverInMySQL/node_modules
+/serverInMySQL/node_modules
